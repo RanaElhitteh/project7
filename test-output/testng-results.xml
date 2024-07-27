@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-11T23:42:14 EET" name="Default suite" finished-at="2024-06-11T23:42:18 EET" duration-ms="4647">
+    <groups>
+    </groups>
+    <test started-at="2024-06-11T23:42:14 EET" name="Default test" finished-at="2024-06-11T23:42:18 EET" duration-ms="4647">
+      <class name="Task1">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Task1@6ee660fb]" started-at="2024-06-11T23:42:14 EET" name="Setup" finished-at="2024-06-11T23:42:15 EET" duration-ms="1082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Log_in()[pri:1, instance:Task1@6ee660fb]" started-at="2024-06-11T23:42:15 EET" name="Log_in" finished-at="2024-06-11T23:42:17 EET" duration-ms="2275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Log_in -->
+        <test-method signature="verifiyTheWordProductIsThere()[pri:2, instance:Task1@6ee660fb]" started-at="2024-06-11T23:42:17 EET" name="verifiyTheWordProductIsThere" finished-at="2024-06-11T23:42:17 EET" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifiyTheWordProductIsThere -->
+        <test-method signature="SortingItems()[pri:3, instance:Task1@6ee660fb]" started-at="2024-06-11T23:42:17 EET" name="SortingItems" finished-at="2024-06-11T23:42:18 EET" duration-ms="1210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortingItems -->
+      </class> <!-- Task1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
